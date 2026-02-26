@@ -84,8 +84,3 @@ O projeto cobre os seguintes fluxos principais:
 
 > **Nota:** Certifique-se de configurar as variáveis de ambiente necessárias no arquivo `cypress.config.js` ou em um arquivo `.env` antes de iniciar.
 
----
-
-**Dica de amigo:** Notei que na sua pasta `adcionar` e no arquivo `adcionar.js`, há um pequeno erro de digitação (falta o "i" de **adicionar**). Se você corrigir no código, lembre-se de atualizar o README também!
-
-**Gostaria que eu criasse um exemplo de como seria o conteúdo de um desses arquivos `.feature` para o seu projeto?**
